@@ -1,9 +1,12 @@
 # How To Build Worlds
 ## The Eleven Ls of StoryWorlding
 
+
 **In Brief:**
 
-_Forget “marketing”. Today, consumer-facing businesses need to be “StoryWorlding”. This is a framework for how to create worlds for your fans and customers._  
+_Forget “marketing”. Today, consumer-facing businesses need to be “StoryWorlding”._ 
+
+_This is a framework for how to create worlds for your fans and customers._  
 
 _Brands, influencers, politicians, entrepreneurs, inventors, artists, and musicians – this is for you._
 
