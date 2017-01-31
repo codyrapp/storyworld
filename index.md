@@ -1,5 +1,5 @@
-## How To Build Worlds
-### The Eleven L's of StoryWorlding
+# How To Build Worlds
+## The Eleven L's of StoryWorlding
 
 **In Brief:**
 
@@ -9,7 +9,7 @@ _Brands, influencers, politicians, entrepreneurs, inventors, artists, and musici
 
 ---
 
-**Intro**
+### **Intro**
 
 StoryWorlding is the art of creating an imaginary world for your followers/fans/customers to play in, usually by telling a set of ongoing, extraordinary, and distinctive stories through diverse media.
 
@@ -21,48 +21,57 @@ Most companies aren’t getting this right… so the examples I’ll use come fr
 
 Here’s a framework for thinking about how to StoryWorld:
 
-The Eleven L’s of StoryWorlding
+### The Eleven L’s of StoryWorlding
 
-1. Language – You must define a language/vocabulary for your StoryWorld. In the past, this was known as your brand’s “Voice” or sometimes a “Slogan”. Today, in our world of memes, this isn’t enough anymore -- business can’t think in terms of “launching marketing campaigns”… they have to think in terms of “creating languages”. You need a series of words, short phrases, or ideas you repeat constantly, across all of your platforms. They should represent themes that resonate with your audience and that reflect your brand. Your people will learn to speak your language and they’ll start to use it. This is powerful. 
+**1. Language**
 
-Tip -- Made-up words and phrases tend to work well. 
+You must define a language/vocabulary for your StoryWorld. In the past, this was known as your brand’s “Voice” or sometimes a “Slogan”. Today, in our world of memes, this isn’t enough anymore -- business can’t think in terms of “launching marketing campaigns”… they have to think in terms of “creating languages”. You need a series of words, short phrases, or ideas you repeat constantly, across all of your platforms. They should represent themes that resonate with your audience and that reflect your brand. Your people will learn to speak your language and they’ll start to use it. This is powerful. 
 
-•	Think Willy Wonka -- “Laffy taffy, everlasting gobstopper, oompa loompa”…
-•	Think DJ Khaled – “Major key, Bless up, Another one”…
-•	Think Dr. Seuss – “Green eggs and ham, the Lorax, cat in the hat, sneetches”
+_**Tip -- Made-up words and phrases tend to work well.**_ 
 
+- Think Willy Wonka -- “Laffy taffy, everlasting gobstopper, oompa loompa”…
+- Think DJ Khaled – “Major key, Bless up, Another one”…
+- Think Dr. Seuss – “Green eggs and ham, the Lorax, cat in the hat, sneetches”
 
-2. Leaders – Every StoryWorld has leaders. These are the characters in your story, but more importantly, they are the guides that your fans can attach to and follow. Build a set of strong leaders with whom your customers can fall in love. Make these leaders the protagonists of your stories. Then, set them on a series of adventures where they explore your Storyworld and passively teach your audience the core tenets of your brand. The characteristics and qualities of these leaders should parallel those of you brand. 
+**2. Leaders**
 
-Tip -- If your leader isn’t a human, make them an animated character…
+Every StoryWorld has leaders. These are the characters in your story, but more importantly, they are the guides that your fans can attach to and follow. Build a set of strong leaders with whom your customers can fall in love. Make these leaders the protagonists of your stories. Then, set them on a series of adventures where they explore your Storyworld and passively teach your audience the core tenets of your brand. The characteristics and qualities of these leaders should parallel those of you brand. 
 
-•	Think Dorothy and her squad from The Wizard of Oz…
-•	Think Huckleberry Finn from Mark Twain’s Adventures of Huckleberry Finn…
-•	Think Steve Jobs… the story of his leadership in Apple was an important part of the company’s narrative
-•	Think Professor X in The X-Men Series
-•	Think Jed Bartlett, the fictional President of the United States from The West Wing
-•	(And many, many more examples…)
+_**Tip -- If your leader isn’t a human, make them an animated character…**_
 
-3. Looks – Your StoryWorld needs a unique and consistent “look” – choose which colors, palettes, visual motifs, lighting, fonts, animations, etc. define your world. Be consistent and stick to them. Movies often get this right. Brands are pretty good at this. Influencers are often great at this.
+- Think Dorothy and her squad from The Wizard of Oz…
+- Think Huckleberry Finn from Mark Twain’s Adventures of Huckleberry Finn…
+- Think Steve Jobs… the story of his leadership in Apple was an important part of the company’s narrative
+- Think Professor X in The X-Men Series
+- Think Jed Bartlett, the fictional President of the United States from The West Wing
+- (And many, many more examples…)
 
-Tip – It’s actually a good thing when you can’t quite put a finger on why something looks uniquely X…
+**3. Looks**
 
-•	Think The Grand Budapest Hotel (and most things Wes Anderson touches)…
-•	Think Edward Scissorhands (and most things Tim Burton touches)…
-•	Think Mad Max: Fury Road…
-•	Think Kanye West’s Yeezy brand…
-•	Think Kylie Jenner’s Instagram feed
+Your StoryWorld needs a unique and consistent “look” – choose which colors, palettes, visual motifs, lighting, fonts, animations, etc. define your world. Be consistent and stick to them. Movies often get this right. Brands are pretty good at this. Influencers are often great at this.
 
-4. Legends – This is your origin story. It’s important for your StoryWorld to have history. It adds depth and credibility to your brand and gives you a chance to define your foundations. If you’ve been around for a while, as a company or person, you’ll likely have legends and history built into your brand. If you are relatively new to the scene, you have the opportunity to invent your legends. Be sure to include elements of comparable stories, anchors, each character’s lineages, and legends that exist inside your world. 
+_**Tip – It’s actually a good thing when you can’t quite put a finger on why something looks uniquely X…**_
 
-Tip -- The best examples often go to extraordinary lengths and depths to define the legends of their StoryWorlds, sometimes even creating fictional languages, maps, extensive back-stories, and histories. Your most avid fans will eat this up.
+- Think The Grand Budapest Hotel (and most things Wes Anderson touches)…
+- Think Edward Scissorhands (and most things Tim Burton touches)…
+- Think Mad Max: Fury Road…
+- Think Kanye West’s Yeezy brand…
+- Think Kylie Jenner’s Instagram feed
 
-•	Think The Lord of the Rings by JRR Tolkien…
-•	Think Game of Thrones by George R. R. Martin…
-•	Think Star Wars by George Lucas…
-•	Think Hamilton, the Broadway play by Lin Manuel Miranda (Tip - a good hack is to create embellished stories built around real history)
+**4. Legends**
 
-5. Laws – There must be a set of rules that the characters in your world can’t break. It’s important to define these constraints; otherwise, your fans and customers will take matters into their own hands… As Pixar founder Ed Catmull describes, “Every Pixar movie has its own rules that viewers have to accept, understand, and enjoy understanding. The voices of the toys in Toy Story films, for example, are never audible to humans. The rats in Ratatouille walk on four paws, like normal vermin, except for Remy, our star, whose upright posture sets him apart. In [Inside Out], one of the rules was that memories (depicted as glowing glass globes) were stored in the brain by traveling through a maze of chutes into a kind of archive.” 
+This is your origin story. It’s important for your StoryWorld to have history. It adds depth and credibility to your brand and gives you a chance to define your foundations. If you’ve been around for a while, as a company or person, you’ll likely have legends and history built into your brand. If you are relatively new to the scene, you have the opportunity to invent your legends. Be sure to include elements of comparable stories, anchors, each character’s lineages, and legends that exist inside your world. 
+
+_**Tip -- The best examples often go to extraordinary lengths and depths to define the legends of their StoryWorlds, sometimes even creating fictional languages, maps, extensive back-stories, and histories. Your most avid fans will eat this up.**_
+
+- Think The Lord of the Rings by JRR Tolkien…
+- Think Game of Thrones by George R. R. Martin…
+- Think Star Wars by George Lucas…
+- Think Hamilton, the Broadway play by Lin Manuel Miranda (Tip - a good hack is to create embellished stories built around real history)
+
+**5. Laws**
+
+There must be a set of rules that the characters in your world can’t break. It’s important to define these constraints; otherwise, your fans and customers will take matters into their own hands… As Pixar founder Ed Catmull describes, “Every Pixar movie has its own rules that viewers have to accept, understand, and enjoy understanding. The voices of the toys in Toy Story films, for example, are never audible to humans. The rats in Ratatouille walk on four paws, like normal vermin, except for Remy, our star, whose upright posture sets him apart. In [Inside Out], one of the rules was that memories (depicted as glowing glass globes) were stored in the brain by traveling through a maze of chutes into a kind of archive.” 
 
 Tip – Laws that “handicap” your Leaders in a humorous way tend to work well.
 
