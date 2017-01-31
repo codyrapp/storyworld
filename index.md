@@ -1,5 +1,5 @@
 # How To Build Worlds
-## The Eleven L's of StoryWorlding
+## The Eleven Ls of StoryWorlding
 
 **In Brief:**
 
@@ -73,60 +73,74 @@ _**Tip -- The best examples often go to extraordinary lengths and depths to defi
 
 There must be a set of rules that the characters in your world can’t break. It’s important to define these constraints; otherwise, your fans and customers will take matters into their own hands… As Pixar founder Ed Catmull describes, “Every Pixar movie has its own rules that viewers have to accept, understand, and enjoy understanding. The voices of the toys in Toy Story films, for example, are never audible to humans. The rats in Ratatouille walk on four paws, like normal vermin, except for Remy, our star, whose upright posture sets him apart. In [Inside Out], one of the rules was that memories (depicted as glowing glass globes) were stored in the brain by traveling through a maze of chutes into a kind of archive.” 
 
-Tip – Laws that “handicap” your Leaders in a humorous way tend to work well.
+_**Tip – Laws that “handicap” your Leaders in a humorous way tend to work well.**_
 
-•	Think about Superman and Kryptonite – whenever Superman is near Kryptonite, he loses his powers and becomes weak. It’s his “Achilles’ heel” (another great example…)
-•	Think Family Guy (TV show) where the baby Stewie can talk, but the only person that understands what he’s saying is his dog Brian... 
-•	Think Peter Pan, a boy who can never grow up..
-•	Think Survivor (Reality TV Show) where contestants must vote another member out of the tribe at Tribal Council each week.
-•	Think Pinocchio, whose nose grows every time he tells a lie.
-
-
-6. Loops – A StoryWorld consists of a set of nested looping stories. These are the themes, characters, and motifs that enter into and exit your story line repeatedly over time. These looping stories are often formulaic, and it’s not a bad thing. Formulaic loops can make it easier 1) for your audience to attach to the characters and ideas in your story, 2) for you to create content within the Storyworld, and 3) for you to experiment with new ideas, products, and characters within a familiar loop. 
-
-Tip -- A good high-level structure to use here is: Intention > Obstacle > Resolution. TV shows often get this right. Also check out the Kurt Vonnegut video in the PS section at the end of this blog.
-
-•	Think James Bond movies -- Pre-story > Introduction of villain > (Bond goes after them > fight )> (Repeat) > Resolution > Equilibrium…
-•	Think CSI (TV Show) – Crime happens, CSI team finds it, investigation, identification of potential suspect, wrong suspect, conflict, find the right suspect, resolution…
-•	Think House (TV Show) – Patient comes in with unsolvable health problem, team is stumped, they try different things, nothing works, patient almost dies, Dr. House swoops in with a miraculous solution in the final minutes > Resolution and Character development…
-•	Think Indiana Jones – Indiana searches for artifact, loses it to bad guy, goes on adventure to get it back, conflict, artifact found, bad guy dies.  
+- Think about Superman and Kryptonite – whenever Superman is near Kryptonite, he loses his powers and becomes weak. It’s his “Achilles’ heel” (another great example…)
+- Think Family Guy (TV show) where the baby Stewie can talk, but the only person that understands what he’s saying is his dog Brian... 
+- Think Peter Pan, a boy who can never grow up..
+- Think Survivor (Reality TV Show) where contestants must vote another member out of the tribe at Tribal Council each week.
+- Think Pinocchio, whose nose grows every time he tells a lie.
 
 
-7. Lies – This one is interesting. You must define a set of truths that your customers/fans know but that the people within and bound by your StoryWorld don't. In other words, the audience knows something that the characters do not. This is called “dramatic irony”. If implemented correctly, it provides a sense of higher dimensional awareness for your viewers – they are in on a set of lies that the people stuck in your world don’t know or can’t understand. It’s a way to bring your viewers into the inside, to make them feel like creators, and to create a veil of transparency around your StoryWorld.
+**6. Loops**
 
-Tip – Make sure the Lie is intentional and critical to the story, rather than random and not related at all to the plot, obstacles, or your products in your StoryWorld. 
+A StoryWorld consists of a set of nested looping stories. These are the themes, characters, and motifs that enter into and exit your story line repeatedly over time. These looping stories are often formulaic, and it’s not a bad thing. Formulaic loops can make it easier 1) for your audience to attach to the characters and ideas in your story, 2) for you to create content within the Storyworld, and 3) for you to experiment with new ideas, products, and characters within a familiar loop. 
 
-•	Think Snow White’s poison apple, where the audience knows that the Wicked Stepmother cursed the apple, but Snow White does not…
-•	Think Calvin and Hobbes, a comic strip by Bill Waterson, where Calvin doesn’t know that his best friend Hobbes is a stuffed animal. He thinks he’s a real tiger, but the readers know the truth…
-•	Think Westworld (HBO TV Show) where the humanoid hosts don’t know they are robots, but the audience does…
+_**Tip -- A good high-level structure to use here is: Intention > Obstacle > Resolution. TV shows often get this right. Also check out the Kurt Vonnegut video in the PS section at the end of this blog.**_
 
-8. Lines – You must lay out the growth trajectories for your characters to follow. Then set them on those growth trajectories. Make sure there is a lot at stake if they fail. Otherwise, your people will lose interest in the characters and move onto a different StoryWorld. Give them an ambitious goal and room to grow into a character that can accomplish that goal, by learning, experiencing, and leveling up. Your audience will feel like they grow with the character and be more emotionally invested in the story. If you have multiple characters, make their lines intersect periodically.
+- Think James Bond movies -- Pre-story > Introduction of villain > (Bond goes after them > fight )> (Repeat) > Resolution > Equilibrium…
+- Think CSI (TV Show) – Crime happens, CSI team finds it, investigation, identification of potential suspect, wrong suspect, conflict, find the right suspect, resolution…
+- Think House (TV Show) – Patient comes in with unsolvable health problem, team is stumped, they try different things, nothing works, patient almost dies, Dr. House swoops in with a miraculous solution in the final minutes > Resolution and Character development…
+- Think Indiana Jones – Indiana searches for artifact, loses it to bad guy, goes on adventure to get it back, conflict, artifact found, bad guy dies.  
 
-Tip -- One artful tool to do this within a story is to reference a great “prophecy”.
+
+**7. Lies**
+
+This one is interesting. You must define a set of truths that your customers/fans know but that the people within and bound by your StoryWorld don't. In other words, the audience knows something that the characters do not. This is called “dramatic irony”. If implemented correctly, it provides a sense of higher dimensional awareness for your viewers – they are in on a set of lies that the people stuck in your world don’t know or can’t understand. It’s a way to bring your viewers into the inside, to make them feel like creators, and to create a veil of transparency around your StoryWorld.
+
+_**Tip – Make sure the Lie is intentional and critical to the story, rather than random and not related at all to the plot, obstacles, or your products in your StoryWorld. **_
+
+- Think Snow White’s poison apple, where the audience knows that the Wicked Stepmother cursed the apple, but Snow White does not…
+- Think Calvin and Hobbes, a comic strip by Bill Waterson, where Calvin doesn’t know that his best friend Hobbes is a stuffed animal. He thinks he’s a real tiger, but the readers know the truth…
+- Think Westworld (HBO TV Show) where the humanoid hosts don’t know they are robots, but the audience does…
+
+**8. Lines**
+
+You must lay out the growth trajectories for your characters to follow. Then set them on those growth trajectories. Make sure there is a lot at stake if they fail. Otherwise, your people will lose interest in the characters and move onto a different StoryWorld. Give them an ambitious goal and room to grow into a character that can accomplish that goal, by learning, experiencing, and leveling up. Your audience will feel like they grow with the character and be more emotionally invested in the story. If you have multiple characters, make their lines intersect periodically.
+
+_**Tip -- One artful tool to do this within a story is to reference a great “prophecy”.**_
 
 •	Think Harry Potter by JK Rowling… boy wizard discovers magic, prophecy mandates that he destroy Voldemort to survive…
 •	Think Breaking Bad… High school chemistry teacher Walter White is diagnosed with terminal cancer, starts selling meth to make money for his family, grows, and in the process becomes drug kingpin Heisenberg.
 •	Think The Voice, X Factor, America’s Got Talent, etc. where an unknown talent develops into a global superstar.
 
 
-9. Levers – Your Storyworld must be interactive. It needs to have ways to take inputs and generate new outputs. This is how your people engage. What levers can they pull to influence the StoryWorld? Social media posts? Videos? Events? Contests? Products? 
+**9. Levers**
 
-Tip – Games work really well in StoryWorlds. Create games that both your characters and your audience can play.
+Your Storyworld must be interactive. It needs to have ways to take inputs and generate new outputs. This is how your people engage. What levers can they pull to influence the StoryWorld? Social media posts? Videos? Events? Contests? Products? 
+
+_**Tip – Games work really well in StoryWorlds. Create games that both your characters and your audience can play.**_
 
 •	Think American Idol where viewers vote on the final contestant…
 •	Think Twitch Plays Pokémon, where a crowd of over 1.16 million people participated in controlling a Pokémon video game. 
 •	Think campaign-based video games, like The Legend of Zelda, Call of Duty, World of Warcraft, etc. where the player controls the character and gameplay…
 
 
-10. Libraries – Your fans need a library of content to explore. The history of the story world should live here. Everything you produce within the context of this story should live here. 
+**10. Libraries**
 
-Tip – It should probably be a digital library these days… but there are some fun new examples of brands and stories playing with physical spaces and experiences that represent their Libraries and histories. 
+Your fans need a library of content to explore. The history of the story world should live here. Everything you produce within the context of this story should live here. 
+
+_**Tip – It should probably be a digital library these days… but there are some fun new examples of brands and stories playing with physical spaces and experiences that represent their Libraries and histories.**_ 
 
 •	Think Youtube…
 •	Think Instagram…
 •	Think Netflix’s strategy of releasing full seasons at a time, rather than one episode at a time…
 
-11. Laughter – Laughs are incredibly powerful in StoryWorlding, particularly today as self-aware (and occasionally self-deprecating) brands that joke, laugh, and play with their audience seem to be winning. Scott Adams, creator of the comic strip Dilbert, says that, “there are six elements of humor: naughty, clever, cute, bizarre, mean, recognizable. You have to have at least two dimensions to succeed.”
+**11. Laughter**
+
+Laughs are incredibly powerful in StoryWorlding, particularly today as self-aware (and occasionally self-deprecating) brands that joke, laugh, and play with their audience seem to be winning. Scott Adams, creator of the comic strip Dilbert, says that, “there are six elements of humor: naughty, clever, cute, bizarre, mean, recognizable. You have to have at least two dimensions to succeed.”
+
+_**Tip – Don't be afraid to be edgy**_
 
 Think Seinfeld…
 Think Cards Against Humanity…
@@ -134,7 +148,7 @@ Think Dollar Shave Club’s first promotional video…
 Think Dave Chappelle and his comedy sketches…
 (And many, many more…)
 
-In Conclusion…
+**In Conclusion…**
 
 The future is one of unbridled creativity and world creation. 
 
@@ -144,7 +158,7 @@ I think more companies should hire great writers and storytellers to take advant
 
 Happy StoryWorlding,
 
-https://www.youtube.com/watch?v=r2pt2-F2j2g
+[Link](https://www.youtube.com/watch?v=r2pt2-F2j2g)
 
 Cody
 
@@ -152,54 +166,14 @@ If you liked this post, let me know here.
 
 PS. Enjoy Kurt Vonnegut on the Shapes of Stories
 
-https://www.youtube.com/watch?v=oP3c1h8v2ZQ
+[Link](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
 
-Also, The Basic Plots: http://www.ipl.org/div/farq/plotFARQ.html
+Also, The Basic Plots: [Link](http://www.ipl.org/div/farq/plotFARQ.html)
 
 PPS. There are a few story-forward companies I’m watching that are getting this right:
 
-The Good Ones – www.goodones.tv
-Team10 -- http://www.team10official.com/
-Hyperloop One -- https://hyperloop-one.com/
+The Good Ones – [Link](www.goodones.tv)
+Team10 -- [Link](http://www.team10official.com/)
+Hyperloop One -- [Link](https://hyperloop-one.com/)
 
 
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/codyrapp/storyworld/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codyrapp/storyworld/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
